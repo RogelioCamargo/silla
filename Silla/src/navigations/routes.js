@@ -1,0 +1,16 @@
+export default Object.freeze({
+  ACCOUNT_SETTINGS: 'AccountSettings',
+  CREATE_LISTING: 'CreateListing',
+  EDIT_LISTING: 'EditListing',
+  EDIT_PROFILE: 'EditProfile',
+  HOME: 'Home',
+  LISTING_DETAILS: 'ListingDetails',
+  LISTINGS: 'Listings',
+  MESSAGE_DETAILS: 'MessageDetails',
+  OPTIONS: 'Options',
+  PROFILE: 'Profile',
+  PROFILE_LISTING_DETAILS: 'ProfileListingDetails',
+  SEARCH_LISTINGS: 'SearchListings',
+  SEARCH_HOME: 'SearchHome',
+  START_CONVERSATION: 'StartConversation',
+});

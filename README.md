@@ -5,6 +5,10 @@ A user can log in or sign up with their google creditials.
 Users can send messages to each other about a particular item. 
 This is done with web sockets. 
 
+![Message](/demo/message.jpeg)
+
+![Messages Screen](/demo/messages.jpg)
+
 ### 3. Creating/Updating/Deleteing Posts
 Users can create posts. Images are stored in a AWS S3 bucket and all other 
 post details are stored in a standard NoSQL database-- MongoDB. This includes

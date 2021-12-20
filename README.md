@@ -9,7 +9,8 @@ A user can log in or sign up with their google creditials.
 A user will have a better idea what to look for by displaying popular categories. 
 
 <img src="demo/home.jpeg" alt="home screen" style="width: 250px;"/>
-![RPReplay_Final1616900069_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/19900547/146803520-b4d32d58-7d32-4b23-b897-81b4c3dc53d2.gif)
+![RPReplay_Final1616900069_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/19900547/146803601-48e36283-a279-4f8f-b351-098b24366c14.gif)
+
 
 
 

@@ -1,4 +1,5 @@
-## Project
+## Silla Project
+I really wish I recorded more video of my project. I had the thought of launching it but ultimately decided to.
 
 ### 1. Google Login/Signup
 A user can log in or sign up with their google creditials.

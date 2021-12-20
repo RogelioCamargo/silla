@@ -33,19 +33,8 @@ screen.
 ### 5. Search
 Users can search through items via keywords or phrases. 
 
+### 6. Demo!
+[Uploading demo_1_MOV_AdobeCreativeCloudExpress.gif…]()
 
-## Setup
-We have to start our server and then run our react native
-application. 
 
-```
-cd backend
-npm install
-npm start
 
-cd..
-
-cd Silla
-npm install
-npm run ios
-```

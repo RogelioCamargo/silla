@@ -9,6 +9,8 @@ A user can log in or sign up with their google creditials.
 A user will have a better idea what to look for by displaying popular categories. 
 
 <img src="demo/home.jpeg" alt="home screen" style="width: 250px;"/>
+https://user-images.githubusercontent.com/19900547/146802983-adf4d920-bfee-4b15-b4bc-253269db5998.mov
+
 
 ### 2. Messaging
 Users can send messages to each other about a particular item. 

@@ -34,7 +34,9 @@ screen.
 Users can search through items via keywords or phrases. 
 
 ### 6. Demo!
-[Uploading demo_1_MOV_AdobeCreativeCloudExpress.gif…]()
+![demo_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/19900547/146793651-0f74bc78-add3-4040-ba1b-8dedaacd5cc3.gif)
+
+
 
 
 

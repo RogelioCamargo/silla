@@ -1,4 +1,15 @@
 ## Silla Project
+Silla is a marketplace for used furniture. A user can sign in via google and once logged in, the app requests the user's location to get
+items closest to him. A user can search for items and message others about said items. A user can also post and update items. A profile can be updated as well.
+
+Services and Technoglogies Used: 
+1. React Native (frontend)
+2. Node.js (backend)
+3. AWS S3 (storing images)
+4. Web Sockets (messaging)
+5. MongoDB and mongoose (database and schema design)
+
+
 I really wish I recorded more video of my project. I had the thought of launching it but ultimately decided to.
 
 ### 1. Google Login/Signup
@@ -11,10 +22,6 @@ A user will have a better idea what to look for by displaying popular categories
 
 <img src="demo/home.jpeg" alt="home screen" style="width: 250px;"/>
 ![RPReplay-Final1616900069](https://user-images.githubusercontent.com/19900547/146804203-d89eeb31-bddc-4622-9cd9-2718d0fcebd0.gif)
-
-
-
-
 
 ### 2. Messaging
 Users can send messages to each other about a particular item. 

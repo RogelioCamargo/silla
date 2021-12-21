@@ -10,7 +10,8 @@ Services and Technoglogies Used:
 5. MongoDB and mongoose (database and schema design)
 
 
-I really wish I recorded more video of my project. I had the thought of launching it but ultimately decided to.
+I really wish I recorded more video of my project. This is an app I still intend to launch in the future, 
+but just not right now.
 
 ### 1. Google Login/Signup
 A user can log in or sign up with their google creditials.

@@ -6,7 +6,7 @@ Services and Technoglogies Used:
 1. React Native (frontend)
 2. Node.js (backend)
 3. AWS S3 (storing images)
-4. Web Sockets (messaging)
+4. Socket.IO (messaging)
 5. MongoDB and mongoose (database and schema design)
 
 

@@ -8,6 +8,8 @@ Services and Technoglogies Used:
 3. AWS S3 (storing images)
 4. Socket.IO (messaging)
 5. MongoDB and mongoose (database and schema design)
+6. Here API (location)
+7. Redux (state management)
 
 
 I really wish I recorded more video of my project. This is an app I still intend to launch in the future, 

@@ -31,7 +31,6 @@ A user will have a better idea what to look for by displaying popular categories
 
 ### Messaging
 Users can send messages to each other about a particular item. 
-This is done with web sockets.
 
 <img src="/demo/message.jpeg" alt="conversation example" style="width: 250px;"/>
 
